@@ -5,7 +5,7 @@ This project demonstrates real-time messaging features, user authentication, and
 using Mongodb.
 
 ## Tech Stack
-Frontend :- HTML , CSS, JavaScript
+Frontend :- EJS, JavaScript
 Backened :- Node.js, Express.js
 Database :- MongoDB
 
